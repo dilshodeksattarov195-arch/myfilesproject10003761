@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruerify",
+        "uuid": 25578561,
+        "checksum": "vm6a6b"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
